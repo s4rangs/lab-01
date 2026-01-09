@@ -2,16 +2,16 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Sarang Kim`
+- **CCID:** `sarang2`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+Lab 1 Instructions
 
 ## Verbal Collaboration
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `student` |
+| `Sarang Kim`    | `sarang2` |
 | `<Add more>` | `<CCID>`  |
