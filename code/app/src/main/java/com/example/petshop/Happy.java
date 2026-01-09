@@ -3,10 +3,10 @@ package com.example.petshop;
 import java.util.Date;
 
 public class Happy extends Mood{
-    public HappyMood() {
+    public Happy() {
         super();
     }
-    public HappyMood(Date date){
+    public Happy(Date date){
         super(date);
     }
     @Override
