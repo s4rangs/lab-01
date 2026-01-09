@@ -10,6 +10,9 @@ public abstract class Mood {
     public Mood(Date date) {
         this.date = date;
     }
+    public Date getDate() {
+        return date;
+    }
     public void setDate(Date date){
         this.date = date;
     }
